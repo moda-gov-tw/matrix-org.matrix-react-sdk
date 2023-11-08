@@ -213,3 +213,7 @@ Make sure you've got your Element development server running (by doing `yarn
 start` in element-web), and then in this project, run `yarn run test:cypress`. See
 [`docs/cypress.md`](https://github.com/matrix-org/matrix-react-sdk/blob/develop/docs/cypress.md)
 for more information.
+
+## 軟體中文化
+
+本專案為數位部開放原始碼軟體中文化專案項目之一，其中文化與專案應用可參考 [Wiki](https://github.com/moda-gov-tw/matrix-org.matrix-react-sdk/wiki)。
